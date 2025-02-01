@@ -137,6 +137,18 @@ Feel free to reach out to me via the following channels:
 
 ---
 
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=breezyx28&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breezyx28&layout=compact&theme=dark" alt="Top Languages">
+</p>
+
+---
+
 ## Projects
 
 Here are some of the projects I have worked on:
