@@ -1,8 +1,4 @@
-# Mohamed Ahmed (Kat) - Web Developer Portfolio
-
-<p align="center">
-  <img src="https://kat-portfolio.netlify.app/assets/img/kat_mini.png" height="200" width="200" alt="Mohamed Ahmed (Kat)">
-</p>
+# Mohamed Ahmed (Kat) - Web Developer
 
 <h1 align="center">👋 Hi, I'm Mohamed Ahmed (Kat)</h1>
 <h3 align="center">A passionate web developer from Egypt 🇪🇬</h3>
